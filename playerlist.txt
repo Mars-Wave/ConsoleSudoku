@@ -1,2 +1,2 @@
 Mohamed       3
-Thomas        6
+Tomas         6
